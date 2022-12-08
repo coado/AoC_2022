@@ -1,8 +1,4 @@
 
-
-
-
-
 def part_one():
     file = open("data.txt", "r")
     content = file.read()
