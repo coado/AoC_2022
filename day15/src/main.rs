@@ -127,6 +127,7 @@ fn part_2() -> i64 {
 }
  
 fn main() {
+    
     let res_1 = part_1();
     println!("{res_1}");
 
